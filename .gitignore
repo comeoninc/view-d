@@ -4,6 +4,7 @@ www/
 
 *~
 *.sw[mnpcod]
+*.debug.*
 *.log
 *.lock
 *.tmp
@@ -11,7 +12,11 @@ www/
 log.txt
 *.sublime-project
 *.sublime-workspace
-
+*.bak
+*.ini
+/dist
+public/
+/.stencil
 .stencil/
 .idea/
 .vscode/

@@ -5,3 +5,6 @@ import '@ionic/core';
 // setupConfig({
 //   mode: 'ios'
 // });
+
+
+export class AppRoot { }

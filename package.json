@@ -14,22 +14,22 @@
     "test:watch": "stencil test --spec --e2e --watch"
   },
   "dependencies": {
-    "@angular/cdk": "^8.1.1",
-    "@angular/flex-layout": "^8.0.0-beta.26",
-    "@hapi/hapi": "^18.3.1",
-    "@ionic/angular": "^4.6.2",
-    "@ionic/core": "^4.6.2",
-    "concurrently": "^4.1.1",
+    "@angular/cdk": "^8.2.2",
+    "@angular/flex-layout": "^8.0.0-beta.27",
+    "@hapi/hapi": "^18.4.0",
+    "@ionic/angular": "^4.10.0",
+    "@ionic/core": "^4.10.0",
+    "concurrently": "^4.1.2",
     "flexboxgrid": "^6.3.1",
-    "nodemon": "^1.19.1",
+    "nodemon": "^1.19.3",
     "scss": "^0.2.4",
     "scss-loader": "0.0.1"
   },
   "devDependencies": {
-    "@stencil/core": "1.1.7",
+    "@stencil/core": "1.5.4",
     "angular2-template-loader": "^0.6.2",
     "postcss-load-config": "^2.1.0",
     "postcss-loader": "^3.0.0",
-    "ts-node": "^8.3.0"
+    "ts-node": "^8.4.1"
   }
 }

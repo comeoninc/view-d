@@ -24,8 +24,10 @@ public/
 .versions/
 node_modules/
 $RECYCLE.BIN/
-
+*.bak
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
 .env
+/www
+www/
